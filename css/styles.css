@@ -1,0 +1,152 @@
+
+.burbuja{
+border-radius: 50%;
+background-color: white;
+opacity: .3;
+
+position: absolute;
+bottom: -150;
+
+
+    animation: burbujas 3s linear infinite;
+
+}
+
+.burbuja:nth-child(1){
+    width: 80px;
+    height: 80px;
+    left: 5%;
+    animation-duration: 3s;
+    background-color: white;
+
+}
+
+.burbuja:nth-child(2){
+    width: 100px;
+    height: 100px;
+    left: 35%;
+    animation-duration: 3s;
+    background-color:purple;
+
+}
+
+.burbuja:nth-child(3){
+    width: 20px;
+    height: 20px;
+    left: 15%;
+    animation-duration: 1.5s;
+    background-color: white;
+}
+
+.burbuja:nth-child(4){
+    width: 50px;
+    height: 50px;
+    left: 90%;
+    animation-duration: 6s;
+    background-color:purple;
+}
+
+.burbuja:nth-child(5){
+    width: 70px;
+    height: 70px;
+    left: 65%;
+    animation-duration: 3s;
+    background-color: white;
+    
+}
+
+.burbuja:nth-child(6){
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    animation-duration: 4s;
+    background-color:purple;
+}
+
+.burbuja:nth-child(7){
+    width: 40px;
+    height: 40px;
+    left: 70%;
+    animation-duration: 4s;
+    background-color: white;
+    
+}
+
+.burbuja:nth-child(8){
+    width: 100;
+    height: 100px;
+    left: 52%;
+    animation-duration: 5s;
+    background-color:purple;
+    
+}
+
+.burbuja:nth-child(9){
+    width: 65px;
+    height: 65px;
+    left: 51%;
+    animation-duration: 3s;
+    background-color: white;
+    
+}
+
+.burbuja:nth-child(10){
+    width: 40px;
+    height: 40px;
+    left: 35%;
+    animation-duration: 3s;
+    background-color: purple;
+}
+
+
+
+@keyframes burbujas {
+    0%{
+        bottom: 0;
+        opacity: 0;
+
+    }
+    30%{
+        transform: translateX(30px);
+        
+    }
+    50%{
+        opacity: .4;
+
+    }
+    100%{
+        bottom: 100vh;
+        opacity: 0;
+    }
+    
+}
+
+.img{
+    animation: movimiento 2.5 linear infinite;
+}
+
+@keyframes movimiento {
+
+    0%{
+        transform: translateY(0);
+
+    }
+    50%{
+        transform: translateY(30px);
+        
+    }
+    100%{
+        transform: translateY(0px);
+        
+    }
+    
+}
+
+.nav-bar{
+
+    background: orange;
+    padding: 20px;
+    display: block;
+    color: white;
+    cursor: progress;
+}
