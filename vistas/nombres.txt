@@ -1,0 +1,30 @@
+ El volumen de la unidad C es Acer
+ El n£mero de serie del volumen es: 9CB9-00F9
+
+ Directorio de c:\xampp\htdocs\trabajodegrado\trabajodegrado\vistas
+
+21/05/2021  09:49 p. m.    <DIR>          .
+21/05/2021  09:49 p. m.    <DIR>          ..
+20/05/2021  11:48 a. m.    <DIR>          Archivos anteriores
+30/04/2021  09:17 p. m.             6.664 asignacionView.php
+21/05/2021  08:06 p. m.             6.700 crearUsuarioEmailView.php
+27/05/2021  08:49 p. m.    <DIR>          css
+27/05/2021  11:06 p. m.            30.194 dashboard.php
+19/05/2021  10:05 p. m.    <DIR>          img
+30/04/2021  09:17 p. m.             4.700 insertarNotaView.php
+21/05/2021  10:36 a. m.    <DIR>          js
+12/05/2021  08:43 p. m.             6.365 listaractividadesasesorView.php
+12/05/2021  08:43 p. m.             6.345 listarInstitucionesView.php
+27/05/2021  11:03 p. m.             6.659 listarPracticasView.php
+27/05/2021  11:01 p. m.             7.624 listarUsuariosView.php
+26/05/2021  08:05 p. m.             5.377 loginView.php
+26/05/2021  08:05 p. m.    <DIR>          menus
+23/04/2021  10:00 p. m.                74 nombres.bat
+28/05/2021  08:56 a. m.                 0 nombres.txt
+30/04/2021  09:17 p. m.             5.242 nuevacontrasenaView.php
+30/04/2021  09:17 p. m.             2.954 recuperarcontrasenaView.php
+
+ Directorio de c:\xampp\htdocs\trabajodegrado\trabajodegrado\vistas
+
+              13 archivos         88.898 bytes
+               7 dirs  409.502.138.368 bytes libres
